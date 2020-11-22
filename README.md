@@ -1,3 +1,3 @@
 # Cryptography Labs
 
-Implementation of miscellaneous foundational cryptogrpahy concepts and algorithms.
+Implementation of miscellaneous foundational cryptography concepts and algorithms.
